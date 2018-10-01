@@ -1,3 +1,8 @@
+//Assignment 1 Question 7
+// Matthew Walker 6934696
+//Jeremy Georges 8537121
+//SEG 2105 B01 Lab
+//Miguel Garzon
 import java.util.*;
 import java.util.ArrayList;
 import java.util.Vector;
